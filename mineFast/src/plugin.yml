@@ -1,0 +1,7 @@
+main: kim.younjune.mineFast.Main
+name: MineFast
+version: 1.0
+author: iwin247
+api-version: 1.13
+
+commands:
